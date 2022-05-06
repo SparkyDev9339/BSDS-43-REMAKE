@@ -8,13 +8,13 @@
 1. Brain...
 2. Edit IP to client!
 
-##Update##
+## Update: ##
 Normal Logic Box(Update DataBase)
 Power League
 BattleEnd to Showdown
 
 
-##Soon##
+## Soon: ##
 Buy Skins And Save
 BattleEnd receiving Trophies
 
