@@ -1,8 +1,8 @@
-![Discord link:](https://discord.gg/mt4dUxXryh)
+**Discord link:**(https://discord.gg/mt4dUxXryh)
 
-![ANDROID 1 (MEDIAFIRE) (UPDATED!) :] (https://www.mediafire.com/file/njptm3nhto0xm19/com.projectsbsds.v43229-rev1.apk/file)
+[base apk mediafire](https://www.mediafire.com/file/njptm3nhto0xm19/com.projectsbsds.v43229-rev1.apk/file)
 
-![ANDROID 2 (GOOGLE DRIVE) (UPDATED!) :] (https://drive.google.com/file/d/1BKjqkRdPO9FAA5HcEPdiEKzUBhtifwl7/view?usp=sharing)
+[base apkGOOGLE DRIVE](https://drive.google.com/file/d/1BKjqkRdPO9FAA5HcEPdiEKzUBhtifwl7/view?usp=sharing)
 
 ## Requirements: ##
 1. Brain...
