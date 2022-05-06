@@ -9,14 +9,14 @@
 2. Edit IP to client!
 
 ## Update: ##
-Normal Logic Box(Update DataBase)
-Power League
-BattleEnd to Showdown
+1. Normal Logic Box(Update DataBase)
+2. Power League
+3. BattleEnd to Showdown
 
 
 ## Soon: ##
-Buy Skins And Save
-BattleEnd receiving Trophies
+1. Buy Skins And Save
+2. BattleEnd receiving Trophies
 
 ## How to play BSDS: ##
 1. download server and apk
