@@ -8,6 +8,16 @@
 1. Brain...
 2. Edit IP to client!
 
+##Update##
+Normal Logic Box(Update DataBase)
+Power League
+BattleEnd to Showdown
+
+
+##Soon##
+Buy Skins And Save
+BattleEnd receiving Trophies
+
 ## How to play BSDS: ##
 1. download server and apk
 2. install the apk
