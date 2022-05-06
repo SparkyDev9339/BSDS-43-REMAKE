@@ -1,4 +1,4 @@
-**Discord link:**(https://discord.gg/mt4dUxXryh)
+[Discord:](https://discord.gg/mt4dUxXr)
 
 [base apk mediafire](https://www.mediafire.com/file/njptm3nhto0xm19/com.projectsbsds.v43229-rev1.apk/file)
 
